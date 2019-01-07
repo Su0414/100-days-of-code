@@ -1,10 +1,20 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Suchitra Naik]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [January 6th, Sunday, 2019].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Day 1  
+**Today's Progress**:
+Worked on JS basic syntax, conditional looping, switch case statements
+**Thoughts:** 
+**Link to work:** https://www.hackerrank.com/submissions/all
 
 ### R1D2
+Day 2
+**Today's Progress**: Wrote program in JS using iteration for loop
+
+**Thoughts:** Understand difference between let and const. Through iteration you can write simple useful prorgrams 
+
+**Link to work:** https://github.com/Su0414/100-days-of-code
