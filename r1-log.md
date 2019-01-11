@@ -41,3 +41,13 @@ Day 4
 **Thoughts:** Use class constructor and methods, had to refer documentation for MDN reduce method, getting used to iteration in JS
 
 **Link to work:** https://www.hackerrank.com/submissions/all
+
+
+### R1D5
+Day 5
+
+**Today's Progress**: Wrote program in JS using class Inheritance prototype methods and arrow functions
+
+**Thoughts:** Understood class inheritance in JS and Using Arrow functions is tricky, but you can reduce the number of lines in your code 
+
+**Link to work:** https://www.hackerrank.com/submissions/all
