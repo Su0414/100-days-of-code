@@ -51,3 +51,12 @@ Day 5
 **Thoughts:** Understood class inheritance in JS and Using Arrow functions is tricky, but you can reduce the number of lines in your code 
 
 **Link to work:** https://www.hackerrank.com/submissions/all
+
+### R1D6
+Day 6
+
+**Today's Progress**: Wrote program in JS using bitwise operators and using date and date methods
+
+**Thoughts:** This week has been revision of JS basics and today is my 6th consistent day ! I feel awesome !!
+
+**Link to work:** https://www.hackerrank.com/submissions/all
