@@ -60,3 +60,13 @@ Day 6
 **Thoughts:** This week has been revision of JS basics and today is my 6th consistent day ! I feel awesome !!
 
 **Link to work:** https://www.hackerrank.com/submissions/all
+
+
+### R1D7
+Day 7
+
+**Today's Progress**: Snippets using JS Regular Expressions
+
+**Thoughts:** Regular expressions are not that easy for me....I had to google search for help on Stack overflow but also found some good explanations.
+
+**Link to work:** https://www.hackerrank.com/submissions/all
