@@ -70,3 +70,12 @@ Day 7
 **Thoughts:** Regular expressions are not that easy for me....I had to google search for help on Stack overflow but also found some good explanations.
 
 **Link to work:** https://www.hackerrank.com/submissions/all
+
+### R1D8
+Day 8
+
+**Today's Progress**: HTML, CSS and using JS together, button containers
+
+**Thoughts:** This was tough one so far to work on 3X3 matrix for buttons container and rotating them. 
+
+**Link to work:** https://www.hackerrank.com/submissions/all
