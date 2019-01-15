@@ -79,3 +79,14 @@ Day 8
 **Thoughts:** This was tough one so far to work on 3X3 matrix for buttons container and rotating them. 
 
 **Link to work:** https://www.hackerrank.com/submissions/all
+
+### R1D9
+Day 9
+
+**Today's Progress**: HTML, CSS and using JS together, Task : Binary Calculator
+
+**Thoughts:** Happy to Complete 10days of JS @ Hackerrank today, very well structured examples, good practice on basics, 
+Want to play more with Event Listeners and lots of advance JS code, ES6/7/8 coming more .....Do want you Love!! 
+
+**Link to work:** https://www.hackerrank.com/submissions/all
+
