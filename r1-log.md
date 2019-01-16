@@ -90,3 +90,13 @@ Want to play more with Event Listeners and lots of advance JS code, ES6/7/8 comi
 
 **Link to work:** https://www.hackerrank.com/submissions/all
 
+### R1D10
+Day 10
+
+**Today's Progress**: Was asked technical question about what is hashing and hashtable and what is runtime Big O
+
+**Thoughts:** Very busy day today, still thinking should I go ahead with more practice with JS ES6/7/8 or jump into React/Redux challenges. Do what you love !! Because , it is a new exciting day tomorrow !!
+
+**Link to work:** https://www.hackerrank.com/challenges/welcome-to-java
+
+
